@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snaaajl
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning github :P
+- 🌱 I’m currently learning git :P
 - 💞️ I’m looking to collaborate on cool sstuff
 - 📫 How to reach me telegram: https://t.me/snaaajl
 
