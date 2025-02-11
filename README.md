@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @snaaajl
-- 👀 I’m interested in many things
-- 🌱 I’m currently learning git :P
-- 💞️ I’m looking to collaborate on cool sstuff
+This site is under construction.
 - 📫 How to reach me telegram: https://t.me/snaaajl
 
 <!---
